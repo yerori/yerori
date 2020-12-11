@@ -1,8 +1,18 @@
 ### Hi there I'm yelee👋
-Good day! I am Yelee Kang who is looking for a web developer in South Korea.
+안녕하세요! 신입 웹개발자 강예리입니다. 
+어플리케이션부터 프론트, 백엔드 분야 모두 관심이 많으며,
+비전공자 교육 이수 동안 기록을 담아 보았습니다.
+잘 부탁드리겠습니다. 😄
 
+I am Yelee Kang who is looking for a web developer in South Korea.
 If you want to contact me, please leave me a message!
 
+
+Stack
+- Eclipse
+- Android Studio
+- Spring boot
+- Mysql, Oracle
 <!--
 - 🔭 I’m currently looing for a web development job now.
 
