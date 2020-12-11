@@ -1,10 +1,11 @@
-### Hi there 👋
-Good day! I am Yelee Kang who is interested in Web Development from South Korea.
+### Hi there I'm yelee👋
+Good day! I am Yelee Kang who is looking for a web developer in South Korea.
 
 If you want to contact me, please leave me a message!
 
-- 🔭 I’m currently looing for a web development job now.
 <!--
+- 🔭 I’m currently looing for a web development job now.
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
