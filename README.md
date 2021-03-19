@@ -5,7 +5,7 @@
 I am Yelee Kang who is looking for a web developer in South Korea.
 If you want to contact me, please leave me a message!
 
-<!--
+<!-- https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0 참고해보기
 Stack
 - Eclipse
 - Android Studio
